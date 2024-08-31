@@ -1,0 +1,13 @@
+.App {
+  font-family: 'Poppins', system-ui, Avenir, Helvetica, Arial, sans-serif;
+}
+
+input {
+  padding: 12px;
+  margin: 12px auto;
+  display: block;
+  border: 1px solid #333;
+  border-radius: 6px;
+  background-color: #333;
+  color: #f0f0f0;
+}
